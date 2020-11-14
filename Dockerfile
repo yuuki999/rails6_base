@@ -7,8 +7,8 @@ RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - \
 WORKDIR /rails_base
 COPY Gemfile /rails_base/Gemfile
 COPY Gemfile.lock /rails_base/Gemfile.lock
-RUN bundle install
 COPY . /rails_base
+RUN bundle install
 
 COPY entrypoint.sh /usr/bin/
 RUN chmod +x /usr/bin/entrypoint.sh

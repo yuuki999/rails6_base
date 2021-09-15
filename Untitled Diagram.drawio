@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T07:05:28.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.2.7" etag="6TGnzvJClCC6XgSyoLzN" type="github"><diagram id="V5ROl67hUMPd3xMdemGN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-15T07:22:34.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="4J9VuqtRBypM8RhDEV56" version="15.2.7" type="github">
+  <diagram id="V5ROl67hUMPd3xMdemGN" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OQT2VrUw8In6mazgCLiA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="355" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-1" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="466.4" y="30" width="62.2" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQT2VrUw8In6mazgCLiA-5" target="OQT2VrUw8In6mazgCLiA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" vertex="1" parent="1">
+          <mxGeometry x="350" y="145" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-9" value="puma" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="210" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-10" value="Nginx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQT2VrUw8In6mazgCLiA-11" target="OQT2VrUw8In6mazgCLiA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/life-of-amazon-outline/340/wild_cougar_puma_wildlife_nature_mountain_forest_jungle-128.png" vertex="1" parent="1">
+          <mxGeometry x="500" y="145" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#527FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;" vertex="1" parent="1">
+          <mxGeometry x="600" y="145" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/rails-128.png" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQT2VrUw8In6mazgCLiA-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-20" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OQT2VrUw8In6mazgCLiA-22" value="開発環境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
